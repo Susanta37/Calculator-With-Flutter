@@ -1,5 +1,4 @@
 <<<<<<< HEAD
-# todo
 
 A new Flutter project.
 
